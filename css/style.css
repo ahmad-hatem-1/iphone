@@ -34,6 +34,9 @@ body {
     background-color: #947c39;
     position: relative;
 }
+main {
+    overflow: hidden;
+}
 header {
     background-color: transparent;
     position: absolute;
